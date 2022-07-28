@@ -13,7 +13,7 @@ pipeline {
         
         stage('Second Stage') {
             steps {
-                echo "foo"
+                echo "bla"
             }
             
         }        
